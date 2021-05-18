@@ -1,0 +1,6 @@
+com/heroku/git/sabfesapp/SabfesappApplicationTests.java
+ com.heroku.git.sabfesapp.SabfesappApplicationTests
+com/heroku/git/sabfesapp/AuthTests.java
+ com.heroku.git.sabfesapp.AuthTests
+com/heroku/git/sabfesapp/BoardTests.java
+ com.heroku.git.sabfesapp.BoardTests
