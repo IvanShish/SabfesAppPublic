@@ -1,8 +1,6 @@
 # SabfesApp
 REST-API сервис для веб-приложения SabfesApp, который создан по подобию Trello.
 
-**Использованные технологии**: Java 11, Spring Boot, JUnit, Lombok.
-
 ## Запросы
 
 REST-API сервис расположен по следющему URL: https://sabfesapp.herokuapp.com/
@@ -70,6 +68,22 @@ REST-API сервис расположен по следющему URL: https://
 * **URL:** 
 
   `/api/board/:userId` 
+  
+  **Method:** 
+  
+  `Get` 
+  
+  **Config:** 
+  
+  Must be authorized with `Bearer token`.
+  
+  **Success response:** 
+  
+  `code: 200, content: "boards":[]`.
+  
+* **URL:** 
+
+  `/api/board/getone/:boardId` 
   
   **Method:** 
   
