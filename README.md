@@ -1,9 +1,11 @@
 # SabfesApp
-REST-API сервис для веб-приложения SabfesApp, который создан по подобию Trello.
+API сервис для веб-приложения SabfesApp, который создан по подобию Trello. Делал совместно с другом.
 
 ## Запросы
 
-REST-API сервис расположен по следющему URL: https://sabfesapp.herokuapp.com/
+API сервис расположен по следющему URL: https://sabfesapp.herokuapp.com/
+
+Front: https://github.com/Sabfes/Trello
 
 #### Авторизация и регистрация
 
